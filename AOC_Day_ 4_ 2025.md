@@ -11,16 +11,18 @@ The challenge is all about the application of an AI Assistant in cybersecurity r
 ---
 
 ## 🔍 Approach / Thought Process
-Explain how you started, what you tested first, and why.
+i will start by starting my target machine in tryhack me to be able to access it and read tehe instructions given in the room.
 
 ---
 
 ## 🛠️ Steps Taken
-Describe each step clearly with commands and outputs:
-
-### Example:
+### Step1: connect to The VPN using the openvpn tool and .ovpn file from try hackme
 ```
-nmap -sC -sV 10.10.123.45
+sudo openvpn file.ovpn
+```
+### step2: since we had startted our target machine lets try and access the chatbot via the browser
+```
+http://ip_address
 ```
 
 Explain the results and what they meant.
