@@ -27,12 +27,14 @@ http://ip_address
 
 <!-- Explain the results and what they meant.-->
 We Access the chatbot known as Van SolveIT which works an AI Assistant ans we use it to find out the use of AI in cybersecurity.
-
-Add screenshots if needed:
-
+### Quiz1: Complete the AI showcase by progressing through all of the stages. What is the flag presented to you?
+Here is the flag
 ```
-![Screenshot description](images/day4.png)
+THM{AI_MANIA}
 ```
+Here is the screenshot
+![Van SolveIT AI](images/day4.png)
+
 
 ---
 
