@@ -25,12 +25,13 @@ sudo openvpn file.ovpn
 http://ip_address
 ```
 
-Explain the results and what they meant.
+<!-- Explain the results and what they meant.-->
+We Access the chatbot known as Van SolveIT which works an AI Assistant ans we use it to find out the use of AI in cybersecurity.
 
 Add screenshots if needed:
 
 ```
-![Screenshot description](image.png)
+![Screenshot description](ctfs/images/day4_vansolveit_AI.png)
 ```
 
 ---
