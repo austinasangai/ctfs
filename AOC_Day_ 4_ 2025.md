@@ -31,7 +31,7 @@ We Access the chatbot known as Van SolveIT which works an AI Assistant ans we us
 Add screenshots if needed:
 
 ```
-![Screenshot description](ctfs/images/day4_vansolveit_AI.png)
+![Screenshot description](images/day4_vansolveit_AI.png)
 ```
 
 ---
