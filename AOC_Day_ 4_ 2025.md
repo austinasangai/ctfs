@@ -33,7 +33,7 @@ Here is the flag
 THM{AI_MANIA}
 ```
 Here is the screenshot
-![Van SolveIT AI](images/day4.png)
+![Van SolveIT AI](images/vansolveit1.png)
 
 
 ---
