@@ -51,7 +51,7 @@ use 9
 ---
 ### step 4: I now looked for the options that need to be set for a successful exploit.
 ---
-![metasploit](images/metasploit_framework/meta2.png)
+![metasploit](images/metasploit_framework/meta3.png)
 ---
 ```
 sudo openvpn file.ovpn
