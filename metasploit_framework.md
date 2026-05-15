@@ -1,22 +1,27 @@
 
-# Challenge Title: Advent of Cyber 2025 – AI in Security - old sAInt nick
+# Challenge Title: Using the Meatasploit framework 
+**Platform:** HackTheBox
 
-**Category:** AI security 
+**Category:** Project 
 **Difficulty:** Beginner
 
 ---
 
 ## 📝 Challenge Description
-The challenge is all about the application of an AI Assistant in cybersecurity roles
+This module focuses entirely on using the Metasploit framework in exploiting vulnerabilities. We start by identifying an exploit and checking if our target machine is vulnerable to the exploit before exploiting it. 
 ---
 
 ## 🔍 Approach / Thought Process
-i will start by starting my target machine in tryhack me to be able to access it and read tehe instructions given in the room.
+The assiggnment will be handled in section.
 
 ---
 
-## 🛠️ Steps Taken
-### Step1: connect to The VPN using the openvpn tool and .ovpn file from try hackme
+## 🛠️ Modules
+Metasploit modules are prepared scripts with a specific purpose and corresponding functions that have already been developed and tested in the wild. With these scripts we are able to perform an exploit.
+### Quiz: Use the Metasploit-Framework to exploit the target with EternalRomance. Find the flag.txt file on Administrator's desktop and submit the contents as the Answer.
+
+### step 1:I ran an Nmap scan to confirm that port 445 is open since it’s the one associate with SMB protocol and EternalRomance is a handful of exploit tools for the SMB protocol.
+
 ```
 sudo openvpn file.ovpn
 ```
