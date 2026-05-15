@@ -22,8 +22,10 @@ Metasploit modules are prepared scripts with a specific purpose and correspondin
 
 ### step 1:I ran an Nmap scan to confirm that port 445 is open since it’s the one associate with SMB protocol and EternalRomance is a handful of exploit tools for the SMB protocol.
 
-Here is the screenshot
-![Van SolveIT AI](images/metasploit_framework/meta1.png)
+![metasploit](images/metasploit_framework/meta1.png)
+
+### step 2:I opened Metasploit framework console using the command msfconsole and searched for EternalRomance.
+
 ```
 sudo openvpn file.ovpn
 ```
