@@ -51,11 +51,27 @@ use 9
 ---
 ### step 4: I now looked for the options that need to be set for a successful exploit.
 ---
+```
+options
+```
+---
 ![metasploit](images/metasploit_framework/meta3.png)
 ---
+### step 5: I set all module options that were marked Required: yes, and had an empty Current Setting. That option was RHOSTS which indicates my target IP.
+---
 ```
-sudo openvpn file.ovpn
+set RHOSTS 10.129.2.141
 ```
+---
+use options to confirm the settings
+---
+```
+options
+```
+---
+
+
+
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
 ```
 http://ip_address
