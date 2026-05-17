@@ -102,6 +102,7 @@ run
 ```
 ---
 ![metasploit](images/metasploit_framework/meta8.png)
+---
 The launch was successful and I accessed the interactive shell.
 ----
 ### step 10: I changed my directory to c:\users\Administrator\Desktop using cd c:\users\Administrator\Desktop command, listed the directories in Desktop using dir command and read the contents of flag.txt using type flag.txt command. 
