@@ -116,6 +116,7 @@ cd c:\users\Administrator\Desktop
 ```
 dir
 ```
+### N/B: From the directories discovered we can see the flag.txt file and it must definetly be the file containing our flag.
 ---
 ### step 12: read flag.txt file
 ```
