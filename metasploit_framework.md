@@ -69,7 +69,11 @@ use options to confirm the settings
 options
 ```
 ---
-
+![metasploit](images/metasploit_framework/meta4.png)
+### step 6: I launched the exploit using the command run.
+```
+run
+```
 
 
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
