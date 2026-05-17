@@ -95,7 +95,11 @@ set LHOST 10.10.14.70
 set RHOSTS 10.129.2.141
 ```
 ---
-
+![metasploit](images/metasploit_framework/meta7.png)
+### step 9: launched the attack using command run.
+```
+run
+```
 
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
 ```
