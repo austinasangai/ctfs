@@ -74,6 +74,17 @@ options
 ```
 run
 ```
+---
+![metasploit](images/metasploit_framework/meta5.png)
+---
+The exploit ran successfully but did not give me an interactive shell. Because of this I can’t get the file flag.txt. I therefore go back and look for an exploit that can give me an interactive shell.
+---
+### step 7: I now used the module type exploit indexed at 0 with the name exploit/windows/smb/ms17_010_psexec. I used the command use 0 and searched for options.
+---
+```
+use 0
+```
+---
 
 
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
