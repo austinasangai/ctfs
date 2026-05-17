@@ -103,41 +103,27 @@ run
 ---
 ![metasploit](images/metasploit_framework/meta8.png)
 The launch was successful and I accessed the interactive shell.
+----
 ### step 10: I changed my directory to c:\users\Administrator\Desktop using cd c:\users\Administrator\Desktop command, listed the directories in Desktop using dir command and read the contents of flag.txt using type flag.txt command. 
 ### why: We know that we find all the users in the windows operating system under local disk c in the folder users.
 ```
 cd c:\users\Administrator\Desktop
 ```
 ---
-
-
-### step2:since we had startted our target machine lets try and access the chatbot via the browser
+![metasploit](images/metasploit_framework/meta9.png)
+### step 11:To find the contents of the directory use
 ```
-http://ip_address
+dir
 ```
-
-<!-- Explain the results and what they meant.-->
-We Access the chatbot known as Van SolveIT which works an AI Assistant ans we use it to find out the use of AI in cybersecurity.
-### Quiz1: Complete the AI showcase by progressing through all of the stages. What is the flag presented to you?
-Here is the flag
-```
-THM{AI_MANIA}
-```
-Here is the screenshot
-![Van SolveIT AI](images/vansolveit1.png)
-
-
 ---
-
-## 🎯 Final Exploit / Solution
-Explain the key step that solved the challenge.
-
+### step 12: read flag.txt file
+```
+type flag.txt
+```
 ---
-
 ## 🏁 Flag
-`flag{example_flag_here}`
+`HTB{MSF-W1nD0w5-3xPL01t4t10n}`
 
 ---
 
-## 📌 Lessons Learned
-Write what you learned or what you would do differently next time.
+
