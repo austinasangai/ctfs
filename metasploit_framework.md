@@ -100,6 +100,16 @@ set RHOSTS 10.129.2.141
 ```
 run
 ```
+---
+![metasploit](images/metasploit_framework/meta8.png)
+The launch was successful and I accessed the interactive shell.
+### step 10: I changed my directory to c:\users\Administrator\Desktop using cd c:\users\Administrator\Desktop command, listed the directories in Desktop using dir command and read the contents of flag.txt using type flag.txt command. 
+### why: We know that we find all the users in the windows operating system under local disk c in the folder users.
+```
+cd c:\users\Administrator\Desktop
+```
+---
+
 
 ### step2:since we had startted our target machine lets try and access the chatbot via the browser
 ```
